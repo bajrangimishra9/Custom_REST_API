@@ -12,7 +12,7 @@ The repository contains a high-level overview of the project and its technical i
 
 For a detailed demonstration, additional implementation details, or a walkthrough of the project, please contact:
 
-**Bajrang Mishra**  
+**Bajrangi Mishra**  
 📧 **bajarangimishra9@gmail.com**
 
 A demonstration or additional project information can be provided upon request, subject to applicable confidentiality restrictions.
